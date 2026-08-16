@@ -1,4 +1,3 @@
-```markdown name=README.md url=https://github.com/FabriciosViana/desafio-todolist/blob/master/README.md
 # Desafio TO‑DO List — API
 
 API REST em Java (Spring Boot) para gerenciar uma lista de tarefas (TO‑DO). Fornece endpoints para criar, listar, atualizar e remover tarefas, persistindo os dados em um banco relacional (MySQL).
@@ -31,7 +30,7 @@ API REST em Java (Spring Boot) para gerenciar uma lista de tarefas (TO‑DO). Fo
 # ou buildar e executar o jar
 ./mvnw package
 java -jar target/*.jar
-```
+
 
 Para rodar testes:
 ```bash
